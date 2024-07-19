@@ -1,2 +1,2 @@
 # Sanke-game
-created fun web based snake game using html, css, javascript
+created fun web based snake game using By Reversing A Linked List (JavaScript & React )
